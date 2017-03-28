@@ -1,6 +1,6 @@
 {
   "name": "@jssy/metadata",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Metadata validation routines and CLI utility for JSSY",
   "main": "./lib/api.js",
   "bin": {
@@ -31,6 +31,7 @@
     "@jssy/types": "^0.1.4",
     "co": "^4.6.0",
     "lodash.clonedeep": "^4.5.0",
+    "lodash.forown": "^4.4.0",
     "minimist": "^1.2.0",
     "mz": "^2.6.0",
     "revalidator": "^0.3.1"

@@ -11,7 +11,7 @@
     "lint": "eslint ."
   },
   "keywords": [
-    "jssy",
+    "booben",
     "meta",
     "metadata",
     "validation"
@@ -19,8 +19,8 @@
   "author": "braincrumbs.io",
   "license": "MIT",
   "dependencies": {
-    "@common/tree": "^0.1.1",
-    "@jssy/types": "^0.5.0",
+    "booben-tree": "^0.1.1",
+    "booben-types": "^0.5.0",
     "co": "^4.6.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.forown": "^4.4.0",

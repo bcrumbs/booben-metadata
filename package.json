@@ -1,22 +1,14 @@
 {
-  "name": "@jssy/metadata",
+  "name": "booben-metadata",
   "version": "0.8.0",
-  "description": "Metadata validation routines and CLI utility for JSSY",
+  "description": "Metadata validation routines and CLI utility for Booben",
   "main": "./lib/api.js",
   "bin": {
-    "validate-jssy-meta": "./bin/cli.js"
+    "validate-booben-meta": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"No tests yet :(\" && exit 0",
     "lint": "eslint ."
-  },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@gitlab.ordbuy.com:29184/jssy/jssy-metadata.git"
-  },
-  "bugs": {
-    "url": "https://gitlab.ordbuy.com/jssy/jssy-metadata/issues",
-    "email": "bizyaev@ordbuy.com"
   },
   "keywords": [
     "jssy",
@@ -24,8 +16,8 @@
     "metadata",
     "validation"
   ],
-  "author": "Dmitriy Bizyaev <bizyaev@ordbuy.com>",
-  "license": "UNLICENCED",
+  "author": "braincrumbs.io",
+  "license": "MIT",
   "dependencies": {
     "@common/tree": "^0.1.1",
     "@jssy/types": "^0.5.0",

@@ -1,9 +1,9 @@
-#Metadata reading and validation for JSSY
-##Installation
+# Metadata reading and validation for Booben
+## Installation
 `npm install --save-dev @jssy/metadata`
-##CLI validator
-`validate-jssy-meta path/to/dir`
-##API usage
+## CLI validator
+`validate-booben-meta path/to/dir`
+## API usage
 ```ecmascript 6
 const co = require('co');
 const { gatherMetadata } = require('@jssy/metadata');

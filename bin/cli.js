@@ -1,9 +1,5 @@
 #!/usr/bin/env node
 
-/**
- * @author Dmitriy Bizyaev
- */
-
 'use strict';
 
 const co = require('co');

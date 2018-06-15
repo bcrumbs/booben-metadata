@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "booben-tree": "^0.1.1",
-    "booben-types": "^0.5.0",
+    "booben-types": "^0.6.0",
     "co": "^4.6.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.forown": "^4.4.0",

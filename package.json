@@ -29,7 +29,7 @@
     "revalidator": "^0.3.1"
   },
   "devDependencies": {
-    "@eslint/eslint-config-server": "^0.2.2",
+    "booben-eslint-config-server": "^0.3.3",
     "babel-core": "^6.22.1",
     "babel-eslint": "^7.1.1",
     "eslint": "^3.14.1"

@@ -1,6 +1,6 @@
 {
   "name": "booben-metadata",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "Metadata validation routines and CLI utility for Booben",
   "main": "./lib/api.js",
   "bin": {

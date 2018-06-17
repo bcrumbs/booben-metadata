@@ -1,6 +1,6 @@
 {
   "name": "booben-metadata",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Metadata validation routines and CLI utility for Booben",
   "main": "./lib/api.js",
   "bin": {
@@ -19,8 +19,8 @@
   "author": "braincrumbs.io",
   "license": "MIT",
   "dependencies": {
-    "booben-common-tree": "^0.1.1",
-    "booben-types": "^0.6.0",
+    "booben-common-tree": "^0.1.2",
+    "booben-types": "^0.6.1",
     "co": "^4.6.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.forown": "^4.4.0",
